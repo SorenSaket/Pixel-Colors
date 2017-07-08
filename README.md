@@ -1,6 +1,8 @@
 # Pixel Colors
 A collection of pixel art color palettes from the internet and video games
 
+This collection is work in progress. Palettes may not include all file formats or credits.
+
 # Supported Palette Formats
 - Asepsrite     (.gpl)      (Aseprite supports multiple formats)
 - Corel Painter (.pal)
